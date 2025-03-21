@@ -1,0 +1,77 @@
+/* Body Geral */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Corpo Geral */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Corpo Geral */
+ 
+header img {
+    max-width: 150px;
+    margin-bottom: 10px;
+}
+
+/* Distançia do topo */
+nav {
+    margin-top: 10px;
+}
+
+/* formatção de a dentro de nav */
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* texto h1 */
+h1 {
+    font-size: 32px;
+    color: #333;
+    text-align: center;
+}
+
+/* Paragrafo/ texto */
+p {
+    font-size: 18px;
+    color: #555;
+    line-height: 1.6;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
